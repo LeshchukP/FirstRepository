@@ -2,4 +2,4 @@ PINKLE
 
 WHATS UP
 
-new ver 3.5.0
+new version 3.5.0
